@@ -244,19 +244,14 @@ margin: 0 20px;
           }
           @media (max-width: 375px) {
             .cupon-button{
-                padding: 11px 23px;
+                padding: 6px 23px;
                
             }
           }
-          @media (max-width: 320px) {
-            .cupon-button{
-                padding: 1px 23px;
-               
-            }
-          }
+         
           @media (max-width: 425px) {
             .cupon-button{
-                padding: 11px 23px;
+                padding: 10px 23px;
                
             }
           }
